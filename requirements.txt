@@ -1,0 +1,10 @@
+Flask==2.1.1
+Flask-Cors==3.0.10
+numpy==1.21.3
+sign-language-datasets @ git+https://github.com/sign-language-processing/datasets.git@c4f107c32169d03302fa858b14af7a252256507d
+tensorboard==2.8.0
+tensorflow==2.8.0
+torch==1.10.0
+torchtext==0.11.0
+sacrebleu==1.4.14
+setuptools==59.5.0
