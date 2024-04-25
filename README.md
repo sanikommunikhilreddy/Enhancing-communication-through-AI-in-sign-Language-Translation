@@ -8,6 +8,8 @@ Prem kumar kanna - 700756204
 
 Kesara chenna praneethreddy - 700756460
 
+PPT link:- https://docs.google.com/presentation/d/1ZfQdMha-X0SlrI0NSUr0CJjrv0yeDLtmdbA3xhQbUtU/edit?usp=sharing
+
 
 # Text to Sign & Sign to Text: Bridging the Communication Gap
 
