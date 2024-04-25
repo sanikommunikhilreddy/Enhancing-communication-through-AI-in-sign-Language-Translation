@@ -10,7 +10,7 @@ Kesara chenna praneethreddy - 700756460
 
 PPT link:- https://docs.google.com/presentation/d/1ZfQdMha-X0SlrI0NSUr0CJjrv0yeDLtmdbA3xhQbUtU/edit?usp=sharing
 
-[Output Screen Shots.pdf](https://github.com/sanikommunikhilreddy/Enhancing-communication-through-AI-in-sign-Language-Translation/files/15113093/Output.Screen.Shots.pdf)
+Output Screenshots:- [Output Screen Shots.pdf](https://github.com/sanikommunikhilreddy/Enhancing-communication-through-AI-in-sign-Language-Translation/files/15113093/Output.Screen.Shots.pdf)
 
 # Text to Sign & Sign to Text: Bridging the Communication Gap
 
